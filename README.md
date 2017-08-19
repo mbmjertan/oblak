@@ -1,4 +1,4 @@
-![Oblak](https://oblak.mbmjertan.co/template/icons/oblakLogoLight.png|width=250)
+![Oblak](http://slikodjel.linuxzasve.com/i/15998bd86b5289_JNIHPMGQFKELO_thumb.png)
 
 [Izvorni kod](https://github.com/iwebhub/oblak/tree/master/src) | [Dokumentacija za programere](https://github.com/iwebhub/oblak/tree/master/docs)
 
@@ -10,27 +10,27 @@ Oblak je paket cloud SaaS aplikacija za male poduzetnike.
 
 Kad trebaš podijeliti nešto sa svima, email je naporan. _Jako_ naporan. Zato su tu Novosti, jednostavan alat Poslovnog oblaka za dijeljenje unutar organizacije.
 
-![Evo kako Novosti izgledaju.](https://oblak.mbmjertan.co/public/educateam/file/619be02519f340e144b88dfec7468c8eebd57345781356486ab5d412fe4fa033)
+![Evo kako Novosti izgledaju.](http://slikodjel.linuxzasve.com/i/15998bdab489cb_OIQLGNPFJMKEH.png)
 
 ### Upravljanje kontaktima i kadrovima
 
 Grozan je osjećaj kad moraš napisati korisniku email ili ga nazvati, a nemaš nikakve kontakt informacije. Jedino ih ima Josip, a on je na godišnjem. Aplikacija Kontakti će ti olakšati upravljanje kontaktima i osnovno kadroviranje tako da nikad neće biti brige oko toga _gdje_ su korisnikovi kontakt podaci.
 
-![Kontakti izgledaju dobro, moraš priznati.](https://oblak.mbmjertan.co/public/educateam/file/b51a6f9ed399086c614d42b335c78dbfb2049d0ea159d8fbda5c2fd2d3e323a8)
+![Kontakti izgledaju dobro, moraš priznati.](http://slikodjel.linuxzasve.com/i/15998bdd0a2a1e_FGMLHQEIONPJK.png)
 
 ### Dijeljenje datoteka
 
 Dropbox je sto puta bolji, ali tvoj šef ga ne želi koristiti. Zato su tu Datoteke, aplikacija koja će ti olakšati dijeljenje i upravljanje datotekama.
 
-![Datoteke nisu baš kul aplikacija, ali je korisna za backend.](https://oblak.mbmjertan.co/public/educateam/file/a8d2e680636a6f39e0c37295d23c738c691256a3db1656c4b2d4c61ab413f230)
+![Datoteke nisu baš kul aplikacija, ali je korisne su za backend.](http://slikodjel.linuxzasve.com/i/15998bdf3f404c_GPFLOIKMJQNEH.png)
 
 ### Izradu računa i ponuda
 
 Alati za računovodstvo iz nekog čudnog razloga uglavnom izgledaju kao da su zapeli u devedesetima -- moraš ~~nazvati~~ pristisnuti P radi popusta na svakom artiklu, teško ih je konfigurirati i grozno je naporno pretraživati ih. Oblakova aplikacija Računi tu uskače: konačno, imaš moderan alat za račune i ponude.
 
-![Računi](https://oblak.mbmjertan.co/public/educateam/file/76d2cd05e7a84182cc6d77b92d38b122baa18179b31438f4b1e6b5ead509bc8f)
+![Računi](http://slikodjel.linuxzasve.com/i/15998be3ad6f48_IOLKQFMENPHGJ.png)
 
-![Upozorenje](https://oblak.mbmjertan.co/public/educateam/file/44f9889611d4101981bf043a788c5c90badf5eb2d7347801cd8e6dab94e7e62f)
+![Upozorenje]http://slikodjel.linuxzasve.com/i/15998bd3d43d54_EMJIOLFNGHPQK.png)
 
 Bitno je znati da Oblak nije production-ready za korištenje u računovodstvu -- taj dio je još u razvoju. 
 
