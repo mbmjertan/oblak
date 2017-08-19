@@ -10,7 +10,7 @@ Oblak je paket cloud SaaS aplikacija za male poduzetnike.
 
 Kad trebaš podijeliti nešto sa svima, email je naporan. _Jako_ naporan. Zato su tu Novosti, jednostavan alat Poslovnog oblaka za dijeljenje unutar organizacije.
 
-![Evo kako Novosti izgledaju.](https://oblak.mbmjertan.co/public/educateam/file/619be02519f340e144b88dfec7468c8eebd57345781356486ab5d412fe4fa033)
+![Evo kako Novosti izgledaju.](https://oblak.mbmjertan.co/public/educateam/file/619be02519f340e144b88dfec7468c8eebd57345781356486ab5d412fe4fa033 =250x250)
 
 ### Upravljanje kontaktima i kadrovima
 
@@ -30,7 +30,7 @@ Alati za računovodstvo iz nekog čudnog razloga uglavnom izgledaju kao da su za
 
 ![Računi](https://oblak.mbmjertan.co/public/educateam/file/76d2cd05e7a84182cc6d77b92d38b122baa18179b31438f4b1e6b5ead509bc8f)
 
-![Upozorenje](https://oblak.mbmjertan.co/public/educateam/file/41559efd0aca492c9a10e654a338c708d96e978122d3feb6666bf1a2a6882e20)
+![Upozorenje](https://oblak.mbmjertan.co/public/educateam/file/41559efd0aca492c9a10e654a338c708d96e978122d3feb6666bf1a2a6882e20 | height=100)
 
 Bitno je znati da Oblak nije production-ready za korištenje u računovodstvu -- taj dio je još u razvoju. 
 
