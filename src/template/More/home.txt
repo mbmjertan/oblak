@@ -1,0 +1,17 @@
+{{header}}
+%:homepage.intro%%
+((post.block))
+	<div class="post">
+		<hr class="post-separator">
+		<div class="post-title">
+			<a href="%:post.snip.url%%">
+				%:post.title%%
+			</a>
+		<div class="meta">
+			%:post.snip.time%% &middot; <a href="%:post.snip.author.url%%">%:post.snip.author%%</a>
+		</div>
+		<div class="snippet">
+			%:post.snip.short%%... <a href="%:post.snip.url%%" class="read-more-link">Nastavi čitati &rarr;</a>
+		</div>
+	((.post.block))
+{{footer}}

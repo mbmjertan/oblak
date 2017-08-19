@@ -1,0 +1,13 @@
+body {
+  background: url('More-optimized.jpg') no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;;
+}
+
+.container {
+  background-color: #fefefe;
+  opacity: 0.8;
+  margin-bottom: 16px;
+}

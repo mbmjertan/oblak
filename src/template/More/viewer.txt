@@ -1,0 +1,18 @@
+%%header%%
+%%viewer.block.content%%
+	%%post.block%%
+		<div class="post">
+		<hr class="post-separator">
+			<div class="post-title">
+				<a href="%%post.url%%">
+					%%post.title%%
+				</a>
+				<div class="meta">
+					%%post.time%% &middot; <a href="%%post.author.url%%">%%post.author%%</a>
+				</div>
+				<div class="body">
+					%%post.body%%
+				</div>
+		%%.post.block%%
+	%%.viewer.block.content%%
+%%footer%%

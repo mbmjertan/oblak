@@ -1,0 +1,9 @@
+name: Tama;
+authors: Mario Borna Mjertan;
+bundle: NightsparrowMini;
+license: MIT Licenca;
+version: 0.15;
+type: everything;
+description: Osnovna tema za Nightsparrow, u tamnijoj boji;
+thumbnail: Tama.jpg;
+based-on: Bjelina;

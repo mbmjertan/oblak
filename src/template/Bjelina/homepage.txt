@@ -1,0 +1,10 @@
+%%header%%
+%%navigation%%
+<div class="container">
+<h2>{{title}}</h2>
+{{body}}
+<hr>
+<b>Autor:</b>
+{{authorName}}
+</div>
+%%footer%%

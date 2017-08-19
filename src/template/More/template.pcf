@@ -1,0 +1,9 @@
+name: More;
+authors: Mario Borna Mjertan;
+bundle: NightsparrowMini;
+license: The Nightsparrow License;
+version: 0.15;
+type: everything;
+description: Tema sa pozadinskom slikom;
+thumbnail: Thumb.jpg;
+based-on: Bjelina;

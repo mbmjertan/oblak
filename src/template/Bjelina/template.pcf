@@ -1,0 +1,9 @@
+name: Bjelina;
+authors: Mario Borna Mjertan;
+bundle: NightsparrowMini;
+license: The Nightsparrow License;
+version: 0.15;
+type: everything;
+description: Osnovna tema za Nightsparrow;
+thumbnail: bjelina.png;
+based-on: KRUG;

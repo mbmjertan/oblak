@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head><meta http-equiv="Content-Type" content="text/html; charset=euc-kr">
+  
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>%%pageTitleElement%% -- %%siteName%%</title>
+  <script>%%moment-src%%</script>
+  <link rel="stylesheet" href="template/common/base.css">
+  <link rel="stylesheet" href="template/Bjelina/style.css">
+
+</head>
+<body>

@@ -1,0 +1,8 @@
+type: transactional;
+name: Snijeg;
+authors: Nightsparrow;
+bundle: NightsparrowMini;
+license: The MIT license;
+version: 0.1;
+description: Osnovna tema za sve Nightsparrow transakcijske mailove;
+based-on: wildbit/postmark-templates;

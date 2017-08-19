@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>Stranica nije pronađena.</title>
+</head>
+<body style="background-color:#f7f7f7;font-family:'Helvetica', 'Arial'">
+	<h1>:(</h1>
+	<h3>Greška 404</h3>
+	<p>Stranica koju tražite nije pronađena :(</p>
+</body>
+</html>

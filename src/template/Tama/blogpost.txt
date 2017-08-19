@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html>
+<head><meta http-equiv="Content-Type" content="text/html; charset=euc-kr">
+  
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>%%pageTitleElement%% -- %siteName%%</title>
+  <script>%%moment-src%%</script>
+  <link rel="stylesheet" href="../template/common/base.css">
+  <link rel="stylesheet" href="../template/KRUG/style.css">
+
+</head>
+<body>
+<div class="container kruzimo-header">
+ <img src="../template/KRUG/assets/logo.png" class="krugLogo hidden-sm hidden-xs">
+  <div style="text-align:center;"><img src="../template/KRUG/assets/logo-srdev.png" class="hidden-md hidden-lg center" style="max-height:200px !important;"></div>
+  <nav class="navbar navbar-default">
+    <div class="container-fluid">
+      <!-- Brand and toggle get grouped for better mobile display -->
+      <div class="navbar-header">
+        <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+          <span class="sr-only">Toggle navigation</span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+        </button>
+      </div>
+
+      <!-- Collect the nav links, forms, and other content for toggling -->
+      <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+        <ul class="nav navbar-nav">
+          <li class="active"><a href="../index.php" class="menuitem">Naslovna</a></li>
+          <li><a href="../blog" class="menuitem">Novosti</a></li>
+          <li><a href="../page/o-projektu" class="menuitem">O projektu</a></li>
+          <li><a href="../page/kontakt" class="menuitem">Kontakt</a></li>
+          <li><a href="../page/impressum" class="menuitem">Impressum</a></li>
+
+        </ul>
+        <ul class="nav navbar-nav navbar-right">
+          <li><a href="https://www.facebook.com/pages/Kru%C5%BEimo-gradom/317807485090925?fref=ts"><img src="../template/KRUG/icons/fb.png" style="width:32px;"></a></li>
+        </ul>
+      </div><!-- /.navbar-collapse -->
+    </div><!-- /.container-fluid -->
+  </nav>
+</div>
+<div class="container">
+  <div class="col-md-2">
+    <p class="overline underline blue">%%author%%,  <script>
+                                                      moment.locale('hr');
+                                                      var relative = moment.unix(%%time%%).fromNow();
+                                                      document.write(relative);
+                                                      </script></p>
+    <p class="sramota blue">Izvori: %%sources%%</p>
+  </div>
+  <div class="col-md-10">
+   <h1 class="huge-black-blue">%%pageTitle%%</h1>
+   <div class="post-content"><p>%%content%%</p></div>
+  </div>
+ </div>
+
+
+

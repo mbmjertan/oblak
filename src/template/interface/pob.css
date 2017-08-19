@@ -1,0 +1,200 @@
+
+.brand-logo{
+  font-size: 18px;
+}
+.currentFolderBreadcrumbs{
+	margin-top: 16px;
+	margin-bottom: 16px;
+}
+.file-field .btn{
+	height: 36px;
+  line-height: 36px;
+}
+.appPicker, .userMenu{
+	background-color: #1E1E1E;
+	color: #E3E2E2;
+	padding-top: 32px;
+	padding-bottom: 32px;
+	z-index:9998;
+	position: fixed;
+	width: 100%;
+	visibility:hidden;
+	opacity: 0;
+	transition: visibility 0.5s, opacity 0.5s linear;
+}
+.userMenu{
+  z-index:9999;
+}
+.hugeIcon{
+	font-size: 48px;
+	margin-bottom: 13px;
+}
+.selap, .selap a, .selap a:link, .selap a:visited {
+	text-align:center;
+	color: #E3E2E2;
+}
+.closeAppPickerIcon, .closeUserMenuIcon{
+	color: #E3E2E2;
+	padding: 32px;
+}
+.selap a:hover, .selap:focused, .selap:active{
+	background-color: #fff !important;
+}
+
+code{
+  background-color: #E3E2E2;
+  font-family: 'Roboto Mono', monospace;
+  padding: 5px;
+  margin: 5px;
+  border-radius: 3px;
+}
+.topMargin{
+  margin-top: 7%;
+}
+
+html{
+  font-family: "Roboto", "Helvetica", "Arial", sans-serif;
+}
+.mobileMenu{
+  margin-top: 30px;
+  margin-bottom: 30px;
+  line-height: 25px;
+}
+
+.userMenu, .userMenu a, .userMenu a:link, .userMenu a:visited{
+  color: #E3E2E2;
+  text-decoration: underline;
+}
+
+.billProviderLogo{
+  height: 64px;
+}
+
+.oblakCoreBillStyling{
+  margin: 5%;
+  border: 1px solid grey;
+  padding: 5%;
+  border-radius: 3px;
+}
+
+.billTable {
+  counter-reset: rowNumber;
+}
+
+.billTable tr:not(:first-child) {
+  counter-increment: rowNumber;
+}
+
+
+.billTable tr td:first-child::before {
+  content: counter(rowNumber);
+}
+
+.billTextarea{
+  padding: 0 !important;
+}
+
+.ponuda{
+  display:none;
+}
+
+.appPickerMini{
+  margin: auto;
+  position: absolute;
+  z-index: 9999;
+  box-sizing:border-box;
+  width: 350px;
+}
+.appPickerMiniIcon{
+  display: inline-block;
+  margin-right: 28px;
+  margin-top: 16px;
+  margin-bottom: 16px;
+  text-align: center;
+}
+
+#firstIconAppPickerMini{
+  margin-left: 14px;
+}
+.keyboardShortcutKey{
+  background-color: #263238;
+  color: #e0e0e0;
+  border-radius: 3px;
+  border-bottom: 1px solid #212121;
+  padding: 4px;
+}
+.keyEntry{
+  margin-bottom: 10px;
+}
+.landingHeader{
+  position: relative;
+  top: 0;
+  background-image:url('assets/landingPhoto.jpg');
+  background-repeat:no-repeat;
+  background-size:cover;
+  height:90vh;
+  width:100vw;
+  margin-top: 0px !important;
+  margin-bottom:20px;
+  padding: 5%;
+  max-width:100%;
+}
+
+.landingIntro{
+  font-size: 2rem;
+}
+.landingSubtext{
+  font-size: 1.3rem;
+}
+.btn-landing{
+  margin-bottom: 10px;
+}
+.brand-logo-nav{
+  height: 32px;
+}
+.landing-contextimg{
+  height: 150px;
+}
+
+.landingSubintro{
+  position: relative;
+}
+.text-center{
+  text-align:center;
+}
+.editExportSuggestion{
+  background-color: #e0e0e0;
+  margin: 5%;
+  border: 1px solid grey;
+  padding: 15px;
+  border-radius: 2px;
+}
+.licensesHeader{
+  background-image:url('/template/interface/assets/oblakSharingLove.jpeg');
+  color: #fefefe;
+}
+.supportHeader{
+  background-image:url('/template/interface/assets/oblakSupport.jpeg');
+  bottom:0;
+}
+.articleHeader{
+  height:35vh;
+}
+.sidenav{
+  margin-left: 3%;
+}
+.sidenav .navlink{
+  margin-bottom: 5px;
+}
+.article  img {
+  max-width: 90%;
+}
+.article li{
+  list-style-type: disc;
+}
+.article h2{
+  font-size: 28px;
+}
+.article h3{
+  font-size: 21px;
+}

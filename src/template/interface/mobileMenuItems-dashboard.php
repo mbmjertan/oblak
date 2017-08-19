@@ -1,0 +1,1 @@
+<a href="#createPost" class="modal-trigger"><i class="material-icons left">add_box</i> Dodaj objavu</a>

@@ -1,0 +1,17 @@
+[[comment]]
+<div class="comment">
+    <div class="author">
+        ((if reply true))u odgovoru na <a href="#{{id}}">komentar #{{id}}</a>((endif))
+        <img src="{{gravatar}}">
+        <i>{{author}}</i>
+    </div>
+    <div class="content">
+        <p>{{content}}</p>
+    </div>
+  <a href="?commentFormReply={{id}}#commentForm">Odgovori</a>
+</div>
+
+<form action="{{domainpath}}page/{{slug}}" method="post">
+    <input type="h
+    <input type="text" placeholder="Ime autora" name="name">
+    <input type="email" placeholder="Email" name="name">

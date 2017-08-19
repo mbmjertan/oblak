@@ -1,0 +1,22 @@
+%%header%%
+%%navigation%%
+<div class="container">
+<div class="row">
+<div class="col-md-2">
+<h2>{{title}}</h2>
+<hr>
+<b>Autor:</b>
+{{authorName}} &middot; <script>
+                        moment.locale('hr');
+                        var relative = moment.unix({{timestamp}}).fromNow();
+                        document.write(relative);
+                        </script>
+</div>
+<div class="col-md-10">
+<p>
+{{body}}
+</p>
+</div>
+</div>
+</div>
+%%footer%%

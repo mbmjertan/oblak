@@ -1,0 +1,19 @@
+<?php
+define('rootdirpath', '');
+define('domainpath', '');
+define('mysql_user', '');
+define('mysql_database', '');
+define('mysql_password', '');
+define('mysql_server', 'localhost');
+define('nsCoreLanguage', 'hr');
+define('nsEnvironment', 'development');
+define('systemAdminEmail', '');
+define('oblakDeployKey', '');
+error_reporting(E_ALL);
+date_default_timezone_set('Europe/Zagreb');
+
+if(nsEnvironment == 'development'){
+  ini_set('xdebug.var_display_max_depth', -1);
+  ini_set('xdebug.var_display_max_children', -1);
+  ini_set('xdebug.var_display_max_data', -1);
+}
