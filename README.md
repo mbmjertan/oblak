@@ -1,4 +1,4 @@
-![Oblak](https://oblak.mbmjertan.co/template/icons/oblakLogoLight.png =250x250)
+![Oblak](https://oblak.mbmjertan.co/template/icons/oblakLogoLight.png|width=250)
 
 [Izvorni kod](https://github.com/iwebhub/oblak/tree/master/src) | [Dokumentacija za programere](https://github.com/iwebhub/oblak/tree/master/docs)
 
