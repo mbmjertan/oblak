@@ -30,7 +30,7 @@ Alati za računovodstvo iz nekog čudnog razloga uglavnom izgledaju kao da su za
 
 ![Računi](http://slikodjel.linuxzasve.com/i/15998be3ad6f48_IOLKQFMENPHGJ.png)
 
-![Upozorenje]http://slikodjel.linuxzasve.com/i/15998bd3d43d54_EMJIOLFNGHPQK.png)
+![Upozorenje](http://slikodjel.linuxzasve.com/i/15998bd3d43d54_EMJIOLFNGHPQK.png)
 
 Bitno je znati da Oblak nije production-ready za korištenje u računovodstvu -- taj dio je još u razvoju. 
 
